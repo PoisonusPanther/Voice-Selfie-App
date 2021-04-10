@@ -1,3 +1,4 @@
+pic_name = "";
 var SpeechRecognition = window.webkitSpeechRecognition;
 var recognition = new SpeechRecognition();
 Textbox = document.getElementById("textbox");
